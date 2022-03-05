@@ -2,7 +2,7 @@
 
 I'm a recent graduate of James Madison University's college of business with a major in Computer Information Systems.
 
-I have attained IT certifications from CompTIA in the Sec+ce, AWS in the Cloud Practitioner, and Microsoft in the Azure Fundamentals and Security Fundamentals.
+I have attained IT certifications from CompTIA in the Sec+ce, AWS in the Cloud Practitioner, and Microsoft in the Azure Fundamentals, AI Fundamentals, and Security Fundamentals.
 
 I'm working on my software development skills and have several projects underway; please check them out!
 <!---
